@@ -1,1 +1,1 @@
-# Getting-Js-
+# Getting-Js-via mini project
